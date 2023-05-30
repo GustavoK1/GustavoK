@@ -1,7 +1,10 @@
 <h2 align="left"> WELLCOME TO MY BRAIN STORM! </h2>
   <h5> Hello, my name is Gustavo Klinger! I am a student of technological sciences and my objective is be a developer. I'm studing IT Management at FATEC ARY FOSSEN - Jundiaí.<br>I'm also studing by myself doing some courses online and getting knowledge about programming languages.<br> I would like to work with Python or JavaScript, because they are languages i have more facilities to work with.<br>Ps: An eternal student, because i fell so realized and this is my gas.</h5>
   
-<quote><strong>Follow me</strong> on Social Medias! :D</quote>
+<h2>Follow me on Social Medias! :D</h2>
+<div style="center">
+    <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/25e17b37-3d76-40aa-ba0e-7c5c5c4226ca.png" width="48px" />
+  </div>
   
   
   
@@ -13,6 +16,11 @@
   <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/606d710e-5348-40b2-9a31-052214431807.png" width="45px" />
   <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/fa5085b9-fb83-4bab-ba1d-fa84bf48bf93.png" width="48px" />
   </div>
+  
+
+  
+https://github.com/GustavoK1/GustavoK/assets/36191144/25e17b37-3d76-40aa-ba0e-7c5c5c4226ca.png
+
 
 
 
