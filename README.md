@@ -4,8 +4,8 @@
 <br>
 <h2 align="left">Follow me on Social Medias</h2>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guklinger/)](https://www.linkedin.com/in/guklinger/)
- <br>
- <br>
+<br>
+<br>
 <h2 align="left">Progamming Languages Knowledge</h2>  
 <div style="center">
   <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/0cab0e8e-ddd5-42d1-b53f-3677ce466d2f.png" width="51px" />
