@@ -1,4 +1,9 @@
 <h2 align="left"> 👩‍💻 WELLCOME TO MY BRAIN STORM! </h2>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=GustavoK1&style=flat-square&color=blue" alt=""/>
+</div>
+
   <h5> Hello, my name is Gustavo Klinger!😝 I am a student of technological sciences and my objective is be a developer💻🖱️ I'm studing IT Management at FATEC ARY FOSSEN - Jundiaí. I'm also studing by myself doing some courses online and getting knowledge about programming languages. I would like to work with Python or JavaScript, because they are languages i have more facilities to work with.<br>Ps: An eternal student, because this is my gas.🔥🔥</h5>
 <br>
 <h2 align="left"> 📷 Follow me on Social Medias</h2>
@@ -6,10 +11,6 @@
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guklinger/)](https://www.linkedin.com/in/guklinger/)
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=GustavoK1&style=flat-square&color=blue" alt=""/>
-</div>
 
 <h2 align="left"> 🛠 Progamming Languages Knowledge</h2>  
 <div style="center">
