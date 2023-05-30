@@ -7,7 +7,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guklinger/)](https://www.linkedin.com/in/guklinger/)
 
+<center>
 <img src="https://komarev.com/ghpvc/?username=GustavoK1&style=flat-square&color=blue" alt=""/>
+</center>
 
 <h2 align="left"> 🛠 Progamming Languages Knowledge</h2>  
 <div style="center">
