@@ -16,7 +16,7 @@
   </a>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GustavoK1&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoK1&theme=dark&background=000000" alt="Accounts status"/>
 
 
 <h2 align="left"> 🛠 Progamming Languages Knowledge</h2>  
