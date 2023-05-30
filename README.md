@@ -19,7 +19,7 @@
   <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/d7e14016-fed6-4ee7-bc37-27026172ac58.png" width="44px" />
   <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/606d710e-5348-40b2-9a31-052214431807.png" width="45px" />
   <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/fa5085b9-fb83-4bab-ba1d-fa84bf48bf93.png" width="48px" />
-  </div>
+ </div>
   
 
 
