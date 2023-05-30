@@ -10,9 +10,7 @@
 <br>
 <br>
 
-<div align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guklinger/)](https://www.linkedin.com/in/guklinger/)
-</div>
 
 <h2 align="left"> 🛠 Progamming Languages Knowledge</h2>  
 
