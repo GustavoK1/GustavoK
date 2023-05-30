@@ -6,8 +6,9 @@
   <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/add59589-f6d4-42b9-92b6-1a6211a0755f.png" width="51px" />
   <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/d7e14016-fed6-4ee7-bc37-27026172ac58.png" width="44px" />
   <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/fa5085b9-fb83-4bab-ba1d-fa84bf48bf93.png" width="48px" />
-  <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/e0278900-9ac5-40bf-835c-9013821b1356.png" width="48px" />
+  <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/69757cc4-3bb7-4679-aac6-39ba54f4e22c.png" width="48px" />
   </div>
+
 
 
 
