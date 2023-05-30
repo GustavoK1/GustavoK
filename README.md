@@ -3,7 +3,7 @@
   
 <h2>Follow me on Social Medias! :D</h2>
 <div style="center">
-    <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/25e17b37-3d76-40aa-ba0e-7c5c5c4226ca.png" width="48px" />
+    <button src="https://github.com/GustavoK1/GustavoK/assets/36191144/25e17b37-3d76-40aa-ba0e-7c5c5c4226ca.png" width="48px">https://www.linkedin.com/in/guklinger/</button>
   </div>
   
   
