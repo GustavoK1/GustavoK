@@ -3,14 +3,11 @@
 <br>
 <h2 align="left">Follow me on Social Medias</h2>
 <br>
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guklinger/)](https://www.linkedin.com/in/guklinger/)
 
 
-
-
-<br>
-<br>
 <br>
 <h2 align="left">Progamming Languages Knowledge</h2>  
 <div style="center">
