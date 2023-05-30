@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GustavoK1
-- 👀 I’m interested in do a project...
-- 🌱 I’m currently learning system developing...
-- 💞️ I’m looking to collaborate on corps...
+<h1 align="center"> Wellcome to my brain storm </h1>
+
+
+
 
 
 
