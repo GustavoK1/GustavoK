@@ -16,8 +16,9 @@
   </a>
 </div>
 
+<div id="status" align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoK1&theme=dark&background=000000" alt="Accounts status"/>
-
+</div>
 
 <h2 align="left"> 🛠 Progamming Languages Knowledge</h2>  
 
