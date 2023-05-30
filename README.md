@@ -10,7 +10,11 @@
 <br>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guklinger/)](https://www.linkedin.com/in/guklinger/)
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/guklinger/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <h2 align="left"> 🛠 Progamming Languages Knowledge</h2>  
 
