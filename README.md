@@ -16,6 +16,9 @@
   </a>
 </div>
 
+<br>
+<br>
+
 <div id="status" align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoK1&theme=dark&background=000000" alt="Accounts status"/>
 </div>
