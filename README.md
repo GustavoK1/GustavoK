@@ -3,6 +3,7 @@
 <br>
 <h2 align="left">Follow me on Social Medias</h2>
 <br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guklinger/)](https://www.linkedin.com/in/guklinger/)
 
 
