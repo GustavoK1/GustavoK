@@ -1,7 +1,7 @@
 <h2 align="left"> WELLCOME TO MY BRAIN STORM! </h2>
   <h5> Hello, my name is Gustavo Klinger! I am a student of technological sciences and my objective is be a developer. I'm studing IT Management at FATEC ARY FOSSEN - Jundiaí.<br>I'm also studing by myself doing some courses online and getting knowledge about programming languages.<br> I would like to work with Python or JavaScript, because they are languages i have more facilities to work with.<br>Ps: An eternal student, because i fell so realized and this is my gas.</h5>
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guklinger/)](https://www.linkedin.com/in/guklinger/)
+[![Linkedin Badge](https://github.com/GustavoK1/GustavoK/assets/36191144/65f930bc-a070-4ba3-a83f-b8c2914af3f4.png=https://www.linkedin.com/in/guklinger/)](https://www.linkedin.com/in/guklinger/)
   
   
   
@@ -14,8 +14,9 @@
   <img src="https://github.com/GustavoK1/GustavoK/assets/36191144/fa5085b9-fb83-4bab-ba1d-fa84bf48bf93.png" width="48px" />
   </div>
   
-<img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+
  
+
 
 
 
